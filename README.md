@@ -5,7 +5,7 @@ The idea is to port/translate this .NET console app into a cross-platform app.
 - I have a .NET MAUI user interface.
 - I have a .NET console app for the gameplay. 
 
-## Figma Design
+## Figma Design for the interface
 
 https://www.figma.com/design/37TeLlLPjtciKyoUQmhMT3/Bootleg-Tetris?node-id=0-1&node-type=canvas&t=w2wh0TISSG7z5POT-0
 
