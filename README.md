@@ -17,4 +17,6 @@ https://www.figma.com/design/37TeLlLPjtciKyoUQmhMT3/Bootleg-Tetris?node-id=0-1&n
 
 ## Special thanks to Javier Lopez for the c++ source code and tutorial.
 
+This is a c# translation of the original c++ project.
+
 https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/
