@@ -11,7 +11,7 @@ https://www.figma.com/design/37TeLlLPjtciKyoUQmhMT3/Bootleg-Tetris?node-id=0-1&n
 
 ## Get started
 
-1. Install dependencies
+### 1. Install dependencies
 
    Install Sayers.SDL2 on Nuget Package Manager.
 
